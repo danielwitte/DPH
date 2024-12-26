@@ -12,7 +12,7 @@ The easiest way to start is by reading the course introduction. Students with li
 
 ## Authors
   - **Daniel R. Witte** - *Launched the initiative and created the outline for V1* -
-    [danielwitte]([https://github.com/danielwitte])
+    [danielwitte](https://github.com/danielwitte)
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
