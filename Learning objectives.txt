@@ -1,0 +1,17 @@
+
+## Learning Objectives
+
+Gain an overview of the different theories, methods and perspectives that are relevant to understanding Diabetes as a Population Health problem.
+
+Understand how Diabetes is approached by different disciplines, at different levels of abstraction.
+
+Obtain an overview of the major sources of evidence that underpin our current understanding of diabetes, its causes, complications and options for prevention and treatment.
+
+Be able to carry out data analyses on synthetic or publicly available data that replicate and expand on selected landmark diabetes trials and observational studies.
+
+Be able to formulate a hypothesis that can improve our understanding of Diabetes as a Public Health problem
+
+Be able to describe the theories, methods and data that could be used to evaluate the formulated hypothesis in practice 
+
+Analyse and critically discuss the relevance and limitations of the proposed theories, methods and data
+
